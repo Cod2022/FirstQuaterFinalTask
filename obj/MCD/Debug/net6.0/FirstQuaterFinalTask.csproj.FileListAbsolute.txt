@@ -1,0 +1,15 @@
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\bin\MCD\Debug\net6.0\FirstQuaterFinalTask.exe
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\bin\MCD\Debug\net6.0\FirstQuaterFinalTask.deps.json
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\bin\MCD\Debug\net6.0\FirstQuaterFinalTask.runtimeconfig.json
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\bin\MCD\Debug\net6.0\FirstQuaterFinalTask.dll
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\bin\MCD\Debug\net6.0\FirstQuaterFinalTask.pdb
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.AssemblyInfo.cs
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.csproj.CoreCompileInputs.cache
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.dll
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\refint\FirstQuaterFinalTask.dll
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.pdb
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\FirstQuaterFinalTask.genruntimeconfig.cache
+C:\Users\P\Desktop\Geekbrains. Homework\FirstQuaterFinalTask\obj\MCD\Debug\net6.0\ref\FirstQuaterFinalTask.dll
