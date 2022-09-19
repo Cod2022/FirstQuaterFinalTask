@@ -14,23 +14,20 @@ void PrintArray (string[] array)
     }
 }
 
-string SortArray (string[] array)
+string[] SortArray (string[] array)
 {
     int count = 3;
-    int n = 1;
-    string[] resultArray = new string[n];
+    string[] resultArray = new string[array.Length];
 
     for(int i = 0; i < array.GetLength(0); i++)
     {
         if(array[i].Length <= count)
         {
-            resultArray = array;
-            Array.Resize(ref resultArray, n);
-            n++;
+            resultArray[i] = array[i];
         }
 
     }
-    return resultArray[n]; 
+    return resultArray; 
 }
 SortArray(array);
 PrintArray(array);
