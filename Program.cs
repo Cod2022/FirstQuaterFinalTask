@@ -1,8 +1,8 @@
 ﻿
 string[] array = {"Den", "Samarkand", "Nickname", "23"};
-int count = array[1].Length; 
-int n = 1;
-string[] resultArray = new string[n];
+int coun = array[1].Length; 
+// int n = 1;
+// string[] resultArray = new string[n];
 
 
 void PrintArray (string[] array)
@@ -16,11 +16,21 @@ void PrintArray (string[] array)
 
 string SortArray (string[] array)
 {
+    int count = 3;
+    int n = 1;
+    string[] resultArray = new string[n];
+
     for(int i = 0; i < array.GetLength(0); i++)
     {
-        if()
-    }
-}
+        if(array[i].Length <= count)
+        {
+            resultArray = array;
+            Array.Resize(ref resultArray, n);
+            n++;
+        }
 
+    }
+    return resultArray[n]; 
+}
+SortArray(array);
 PrintArray(array);
-Console.WriteLine(count);
