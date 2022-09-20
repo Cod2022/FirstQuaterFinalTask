@@ -1,15 +1,17 @@
-﻿
+﻿// Создаётся основной массив array:
 string[] array = {"Den", "Samarkand", "456", "Nickname", "23", ")&"};
-
-int elementsNumber = 0; 
-
-
+/* Объявляется переменная elementsNumber для подсчёта 
+общего кол-ва элементов < или = 3:*/
+int elementsNumber = 0;
+// Создаётся метод SortArray для поиска нужных элементов,
+// и записи их в нужный массив:
 string[] SortArray (string[] array)
 {
+    // Объявляется переменная count с нужным нам кол-вом символов
     int count = 3;
+    // Создаётся новый массив для записи в него результатов отбора элементов:
     string[] newArray = new string[array.Length];
-   
-
+    
     for(int i = 0; i < array.GetLength(0); i++)
     {
         int charCount = array[i].Length; 
