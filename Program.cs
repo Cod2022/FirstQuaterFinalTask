@@ -1,5 +1,5 @@
 ﻿
-string[] array = {"Den", "Samarkand", "Nickname", "23"};
+string[] array = {"Den", "Samarkand", "456", "Nickname", "23", ")&"};
 
 int elementsNumber = 0; 
 
