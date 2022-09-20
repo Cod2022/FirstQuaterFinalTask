@@ -1,9 +1,5 @@
 ﻿
 string[] array = {"Den", "Samarkand", "Nickname", "23"};
-int coun = array[1].Length; 
-// int n = 1;
-// string[] resultArray = new string[n];
-
 
 void PrintArray (string[] array)
 {
