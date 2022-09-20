@@ -40,5 +40,5 @@ void PrintArray (string[] array)
     }
 }
 
-SortArray(array);
-PrintArray(array);
+string[] resultArray = SortArray(array);
+PrintArray(resultArray);
