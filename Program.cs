@@ -1,6 +1,36 @@
 ﻿
 string[] array = {"Den", "Samarkand", "Nickname", "23"};
 
+int elementsNumber = 0; 
+
+
+string[] SortArray (string[] array)
+{
+    int count = 3;
+    string[] newArray = new string[array.Length];
+   
+
+    for(int i = 0; i < array.GetLength(0); i++)
+    {
+        int charCount = array[i].Length; 
+        if(charCount <= count)
+        {
+            newArray[i] = array[i];
+            elementsNumber++; 
+        }
+
+    }
+    if (elementsNumber == 0)
+    {
+        Console.WriteLine($"Количество элементов меньше или равно трём: {elementsNumber}");
+    }
+    else 
+    {
+        Console.WriteLine($"Количество элементов меньше или равно трём: {elementsNumber}");
+    }
+    return newArray; 
+}
+
 void PrintArray (string[] array)
 {
     for(int i = 0; i < array.GetLength(0); i++)
@@ -10,20 +40,5 @@ void PrintArray (string[] array)
     }
 }
 
-string[] SortArray (string[] array)
-{
-    int count = 3;
-    string[] resultArray = new string[array.Length];
-
-    for(int i = 0; i < array.GetLength(0); i++)
-    {
-        if(array[i].Length <= count)
-        {
-            resultArray[i] = array[i];
-        }
-
-    }
-    return resultArray; 
-}
 SortArray(array);
 PrintArray(array);
